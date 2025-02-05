@@ -1,7 +1,7 @@
 ### Hi there 👋  
 My name is Christian and I'm a Full Stack Developer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-sudo945&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-sudo945)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)
 
