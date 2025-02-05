@@ -22,7 +22,7 @@ My name is Christian and I'm a Full Stack Developer
 ![flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)  
 ![asyncio](https://img.shields.io/badge/asyncio-%2300BAFF.svg?&style=for-the-badge&logo=python&logoColor=white)  
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
-![rust](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=rust&logoColor=white)  
+![rust](https://img.shields.io/badge/rust-%232496ED.svg?&style=for-the-badge&logo=rust&logoColor=white)  
 ![nginx](https://img.shields.io/badge/-NGINX-10341E?&style=for-the-badge&logo=nginx&logoColor=white)  
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)  
 ![cicd](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)  
