@@ -1,7 +1,7 @@
 ### Hi there 👋  
 My name is Christian and I'm a Full Stack Developer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-sudo945)  
+![Christian-sudo945's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christian-sudo945&theme=highcontrast&hide_border=false)
 
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)  
